@@ -1,4 +1,5 @@
-neural-network-challenge-1
+#neural-network-challenge-1
+
 Student Loan Risk with Deep Learning
 
 This project focuses on using deep learning techniques to predict student loan repayment success based on various features. The project involves preprocessing the data, creating a neural network model, training the model, evaluating its performance, and making predictions.
